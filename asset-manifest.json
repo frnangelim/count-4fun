@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/count-4fun/static/css/main.a27ca056.chunk.css",
+    "main.js": "/count-4fun/static/js/main.bd5ab2fa.chunk.js",
+    "main.js.map": "/count-4fun/static/js/main.bd5ab2fa.chunk.js.map",
+    "runtime-main.js": "/count-4fun/static/js/runtime-main.983cc8f2.js",
+    "runtime-main.js.map": "/count-4fun/static/js/runtime-main.983cc8f2.js.map",
+    "static/js/2.dea00004.chunk.js": "/count-4fun/static/js/2.dea00004.chunk.js",
+    "static/js/2.dea00004.chunk.js.map": "/count-4fun/static/js/2.dea00004.chunk.js.map",
+    "static/js/3.8d12c5a9.chunk.js": "/count-4fun/static/js/3.8d12c5a9.chunk.js",
+    "static/js/3.8d12c5a9.chunk.js.map": "/count-4fun/static/js/3.8d12c5a9.chunk.js.map",
+    "index.html": "/count-4fun/index.html",
+    "static/css/main.a27ca056.chunk.css.map": "/count-4fun/static/css/main.a27ca056.chunk.css.map",
+    "static/js/2.dea00004.chunk.js.LICENSE.txt": "/count-4fun/static/js/2.dea00004.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/count-4fun/static/media/valentine.73ad7c60.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.983cc8f2.js",
+    "static/js/2.dea00004.chunk.js",
+    "static/css/main.a27ca056.chunk.css",
+    "static/js/main.bd5ab2fa.chunk.js"
+  ]
+}
